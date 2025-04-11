@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/view_training/logs/mlruns/707557733372131807
+creation_time: 1744338098934
+experiment_id: '707557733372131807'
+last_update_time: 1744338098934
+lifecycle_stage: active
+name: MNIST with TIMM

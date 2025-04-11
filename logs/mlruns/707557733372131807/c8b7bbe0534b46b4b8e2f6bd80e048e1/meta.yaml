@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/view_training/logs/mlruns/707557733372131807/c8b7bbe0534b46b4b8e2f6bd80e048e1/artifacts
+end_time: 1744338505124
+entry_point_name: ''
+experiment_id: '707557733372131807'
+lifecycle_stage: active
+run_id: c8b7bbe0534b46b4b8e2f6bd80e048e1
+run_name: efficientnet_b0
+run_uuid: c8b7bbe0534b46b4b8e2f6bd80e048e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744338274291
+status: 3
+tags: []
+user_id: root
